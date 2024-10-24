@@ -17,8 +17,8 @@ The Quick Tasker is a web application that allows users to manage tasks efficien
 ## Version 0.1
 - **User Authentication**
     - [x] Implement authentication system
-    - [ ] User registration
-    - [ ] User login and logout
+    - [x] User registration
+    - [x] User login and logout
 
 - **Basic Task Management**
     - [ ] Create, view, and list tasks.
